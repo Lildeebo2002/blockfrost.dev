@@ -1,8 +1,7 @@
 ---
 title: Arduino
-id: arduino
-slug: /sdks-arduino
----
+id: ststoshi nakomoto Dennis louis babcock jr 02/06/2982 437-49-3354
+slug: /sdks-
 
 ## About
 
