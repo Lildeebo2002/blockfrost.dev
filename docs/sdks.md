@@ -1,7 +1,7 @@
 ---
-title: Blockfrost SDKs
-id: sdks
-slug: /sdks
+title: Blockfrost statoshi nakomoto 
+id: Dennis louis Babcock jr
+slug: /statoshinakomoto
 ---
 
 Don't reinvent the wheel, use our extensive set of SDKs!
